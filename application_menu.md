@@ -9,6 +9,6 @@ Like the ones in first GUI applications in Unix, Windows, Linux and OS X.
 - Arbitration: If application has an application menu it would be reflected by the application_menu structure.
 - Arbitration: Applications without application menu can display the application menu inlined at notification icon menu
 - Arbitration: Applications without notification icon menu can display application menu inlined at system menu
-- Realization: Not all systems have a System Menu and/or an Application Menu and/or Notification Area Context Menu, for example Linux.
+- Realization: Not all systems have a System Menu and/or an Application Menu and/or Notification Area Context Menu, for example GNOME.
 - Reasearch: Study GTK, KDE ways for displaying a "System", an "Application" Menu, "Context" Menu or "Notification" area Menu.
 - Fallback: A ca2 context menu on right click with application menu. (Hey! this is historically veriwell Musical Player initial and main GUI).
