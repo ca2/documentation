@@ -6,7 +6,7 @@ Like the ones in first GUI applications in Unix, Windows, Linux and OS X.
 
 ![ApplicationMenuAnnotation](https://github.com/ca2/app/assets/30236231/4a2f4270-484b-40a1-9da6-b6a691315750)
 
-- Arbitration: If application has an application menu it would be reflected by the application menu structure.
+- Arbitration: If application has an application menu it would be reflected by the application_menu structure.
 - Arbitration: Applications without application menu can display the application menu inlined at notification icon menu
 - Arbitration: Applications without notification icon menu can display application menu inlined at system menu
 - Realization: Not all systems have a System Menu and/or an Application Menu and/or Notification Area Context Menu, for example Linux.
