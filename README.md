@@ -1,2 +1,2 @@
-### [application_menu.md](application_menu.md)
+### [Application Menu](application_menu.md)
 
